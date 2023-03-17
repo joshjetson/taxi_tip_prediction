@@ -1,5 +1,4 @@
-# ![Taxi Tip Prediction Model](https://imgur.com/a/BLxHkcN)
-# Flight Tracker Simulator
+# ![Taxi Tip Prediction Model](https://i.imgur.com/maWyDKI.jpeg)
 <table>
 <tr>
 <td>
