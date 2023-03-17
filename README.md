@@ -60,7 +60,7 @@ If you find a bug in this code please let me know.
 
 ## To-do
 - Build an accompanying gui or webapp as to make this an actual application anyone can use.
-
+- Create more data visualizations
 
 
 
